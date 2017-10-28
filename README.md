@@ -1,7 +1,7 @@
 # basic-python-tutorial
 Persian python tutorial
 
-## ![](http://pyteacher.ir/wp-content/uploads/2017/10/python-for-persian-kasaie-pyteacher.ir_-300x169.jpg)
+## ![](http://pyteacher.ir/wp-content/uploads/2017/10/python-for-persian-kasaie-pyteacher.ir_.jpg)
 
 ## سرفصل دوره
 
