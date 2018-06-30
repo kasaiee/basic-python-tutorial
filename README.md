@@ -21,7 +21,7 @@
 *    OOP
 *    و...
 
-![](http://pyteacher.ir/wp-content/uploads/2017/10/python3-tutorials-230x300.png)
+![http://pyteacher.ir/wp-content/uploads/2017/08/python-basic-96/python3_tutorial.pdf](http://pyteacher.ir/wp-content/uploads/2017/10/python3-tutorials-230x300.png)
 
 برای دانلود کتاب منبع، روی تصویر کتاب کلیک کنید یا آن را از [اینجا](http://pyteacher.ir/wp-content/uploads/2017/08/python-basic-96/python3_tutorial.pdf) دانلود کنید.
 
