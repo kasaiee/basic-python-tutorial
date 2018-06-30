@@ -29,9 +29,9 @@ Persian python tutorial
 *   [استفاده از help پایتون](http://pyteacher.ir/portfolio/%d8%a7%d8%b3%d8%aa%d9%81%d8%a7%d8%af%d9%87-help-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86/)
 *   [اعداد](http://pyteacher.ir/portfolio/%d8%a7%d8%b9%d8%af%d8%a7%d8%af-%d8%af%d8%b1-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86/)
 *   متغیر ها
-   *   [تعریف متغیر](http://pyteacher.ir/portfolio/%d8%aa%d8%b9%d8%b1%db%8c%d9%81-%d9%85%d8%aa%d8%ba%db%8c%d8%b1-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86/)
-   *   [تغییر مقدار متغیر](http://pyteacher.ir/portfolio/%d8%aa%d8%ba%db%8c%db%8c%d8%b1-%d9%85%d9%82%d8%af%d8%a7%d8%b1-%d9%85%d8%aa%d8%ba%db%8c%d8%b1-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86/)
-   *   [حذف متغیر](http://pyteacher.ir/portfolio/%d8%ad%d8%b0%d9%81-%d9%85%d8%aa%d8%ba%db%8c%d8%b1-%d8%af%d8%b1-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86/)
+    *   [تعریف متغیر](http://pyteacher.ir/portfolio/%d8%aa%d8%b9%d8%b1%db%8c%d9%81-%d9%85%d8%aa%d8%ba%db%8c%d8%b1-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86/)
+    *   [تغییر مقدار متغیر](http://pyteacher.ir/portfolio/%d8%aa%d8%ba%db%8c%db%8c%d8%b1-%d9%85%d9%82%d8%af%d8%a7%d8%b1-%d9%85%d8%aa%d8%ba%db%8c%d8%b1-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86/)
+    *   [حذف متغیر](http://pyteacher.ir/portfolio/%d8%ad%d8%b0%d9%81-%d9%85%d8%aa%d8%ba%db%8c%d8%b1-%d8%af%d8%b1-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86/)
 *   رشته ها
     *   [رشته ها](http://pyteacher.ir/portfolio/%d8%b1%d8%b4%d8%aa%d9%87-%d8%af%d8%b1-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86/)
     *   [عملگر های رشته](http://pyteacher.ir/portfolio/%d8%b9%d9%85%d9%84%da%af%d8%b1-%d9%87%d8%a7-%db%8c%d8%a7-operation-%d9%87%d8%a7%db%8c%db%8c-%d8%a8%d8%b1%d8%a7%db%8c-%da%a9%d8%a7%d8%b1-%d8%a8%d8%a7-%d8%b1%d8%b4%d8%aa%d9%87-%d8%af%d8%b1-%d9%be%d8%a7/)
