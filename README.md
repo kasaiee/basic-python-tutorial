@@ -6,7 +6,7 @@ Persian python tutorial
 ## سرفصل دوره
 * [مقدمه](http://pyteacher.ir/portfolio/%d9%85%d9%82%d8%af%d9%85%d9%87-%d8%af%d9%88%d8%b1%d9%87-%d9%85%d9%82%d8%af%d9%85%d8%a7%d8%aa%db%8c-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86/)
 *   طراحی بنر دوره
-    *   [قسمت اول](http://pyteacher.ir/portfolio/%d9%85%d9%82%d8%af%d9%85%d9%87-%d8%af%d9%88%d8%b1%d9%87-%d9%85%d9%82%d8%af%d9%85%d8%a7%d8%aa%db%8c-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86/)
+    *   [قسمت اول](http://pyteacher.ir/portfolio/%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%a8%d9%86%d8%b1-%d8%af%d9%88%d8%b1%d9%87-%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86/)
     *   [قسمت دوم](http://pyteacher.ir/portfolio/%d8%a7%d8%af%d8%a7%d9%85%d9%87-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%a8%d9%86%d8%b1-%d8%af%d9%88%d8%b1%d9%87-%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86/)
 *   نصب پایتون
     *   [نصب پایتون در ویندوز](http://pyteacher.ir/portfolio/%d9%86%d8%b5%d8%a8-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86-%d9%88%db%8c%d9%86%d8%af%d9%88%d8%b2/)
