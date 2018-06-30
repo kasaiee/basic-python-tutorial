@@ -6,7 +6,7 @@ Persian python tutorial
 ## سرفصل دوره
 
 *   طراحی بنر دوره
-    *   قسمت اول
+    *   [قسمت اول](http://pyteacher.ir/portfolio/%d9%85%d9%82%d8%af%d9%85%d9%87-%d8%af%d9%88%d8%b1%d9%87-%d9%85%d9%82%d8%af%d9%85%d8%a7%d8%aa%db%8c-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86/)
     *   قسمت دوم
 *   نصب پایتون
     *   نصب پایتون در ویندوز
