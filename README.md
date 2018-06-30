@@ -4,15 +4,15 @@ Persian python tutorial
 ## ![](http://pyteacher.ir/wp-content/uploads/2017/10/python-for-persian-kasaie-pyteacher.ir_.jpg)
 
 ## سرفصل دوره
-
+* [مقدمه](http://pyteacher.ir/portfolio/%d9%85%d9%82%d8%af%d9%85%d9%87-%d8%af%d9%88%d8%b1%d9%87-%d9%85%d9%82%d8%af%d9%85%d8%a7%d8%aa%db%8c-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86/)
 *   طراحی بنر دوره
     *   [قسمت اول](http://pyteacher.ir/portfolio/%d9%85%d9%82%d8%af%d9%85%d9%87-%d8%af%d9%88%d8%b1%d9%87-%d9%85%d9%82%d8%af%d9%85%d8%a7%d8%aa%db%8c-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86/)
-    *   قسمت دوم
+    *   [قسمت دوم](http://pyteacher.ir/portfolio/%d8%a7%d8%af%d8%a7%d9%85%d9%87-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%a8%d9%86%d8%b1-%d8%af%d9%88%d8%b1%d9%87-%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86/)
 *   نصب پایتون
-    *   نصب پایتون در ویندوز
-    *   نصب پایتون در لینوکس
-    *   نصب نسخه های بیشتر روی لینوکس
-*   zen of python (فرهنگ پایتون)
+    *   [نصب پایتون در ویندوز](http://pyteacher.ir/portfolio/%d9%86%d8%b5%d8%a8-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86-%d9%88%db%8c%d9%86%d8%af%d9%88%d8%b2/)
+    *   [نصب پایتون در لینوکس](http://pyteacher.ir/portfolio/%d9%86%d8%b5%d8%a8-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86-%d9%84%db%8c%d9%86%d9%88%da%a9%d8%b3/)
+    *   [نصب نسخه های بیشتر روی لینوکس](http://pyteacher.ir/portfolio/%d9%86%d8%b5%d8%a8-%d9%86%d8%b3%d8%ae%d9%87-%d8%ac%d8%af%db%8c%d8%af%d8%aa%d8%b1-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86-%d9%84%db%8c%d9%86%d9%88%da%a9%d8%b3/)
+*   [zen of python (فرهنگ پایتون)](http://pyteacher.ir/portfolio/%d9%81%d8%b1%d9%87%d9%86%da%af-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86-zen-of-python/)
 *   pip
     *   نصب pip روی لینوکس
     *   استفاده از pip در ویندوز
