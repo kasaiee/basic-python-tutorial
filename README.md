@@ -23,7 +23,7 @@
 
 ![http://pyteacher.ir/wp-content/uploads/2017/08/python-basic-96/python3_tutorial.pdf](http://pyteacher.ir/wp-content/uploads/2017/10/python3-tutorials-230x300.png)
 
-برای دانلود کتاب منبع، روی تصویر کتاب کلیک کنید یا آن را از [اینجا](http://pyteacher.ir/wp-content/uploads/2017/08/python-basic-96/python3_tutorial.pdf) دانلود کنید.
+برای دانلود کتاب منبع، آن را از [اینجا](http://pyteacher.ir/wp-content/uploads/2017/08/python-basic-96/python3_tutorial.pdf) دانلود کنید.
 
 ## سرفصل دوره
 * [مقدمه](http://pyteacher.ir/portfolio/%d9%85%d9%82%d8%af%d9%85%d9%87-%d8%af%d9%88%d8%b1%d9%87-%d9%85%d9%82%d8%af%d9%85%d8%a7%d8%aa%db%8c-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86/)
